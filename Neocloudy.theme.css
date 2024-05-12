@@ -12,7 +12,7 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://cdn.discordapp.com/attachments/696471471920513094/1058508207103938560/2022-12_LobbyNight1.png?ex=663fed96&is=663e9c16&hm=0b355b43e73a6beb3f3596353f9a4f61def7622c70f806357de607f58216b3af&);
+	--app-bg: url(assets/lobby-day.png);
 	--app-blur: 5px;
 	--app-margin: 0px;
 	--app-radius: 8px; /*	-	*/
